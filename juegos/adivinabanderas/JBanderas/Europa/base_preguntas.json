@@ -1,0 +1,142 @@
+[
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg",
+        "respuesta": "Alemania",
+        "incorrecta1": "Austria",
+        "incorrecta2": "Bélgica",
+        "incorrecta3": "Dinamarca"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg",
+        "respuesta": "Austria",
+        "incorrecta1": "Alemania",
+        "incorrecta2": "Suiza",
+        "incorrecta3": "Hungría"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg",
+        "respuesta": "Bélgica",
+        "incorrecta1": "Países Bajos",
+        "incorrecta2": "Francia",
+        "incorrecta3": "Alemania"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg",
+        "respuesta": "Dinamarca",
+        "incorrecta1": "Suecia",
+        "incorrecta2": "Noruega",
+        "incorrecta3": "Alemania"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/8/89/Bandera_de_España.svg",
+        "respuesta": "España",
+        "incorrecta1": "Portugal",
+        "incorrecta2": "Francia",
+        "incorrecta3": "Italia"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_France_%281794–1815%2C_1830–1974%29.svg",
+        "respuesta": "Francia",
+        "incorrecta1": "Alemania",
+        "incorrecta2": "Bélgica",
+        "incorrecta3": "España"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg",
+        "respuesta": "Grecia",
+        "incorrecta1": "Italia",
+        "incorrecta2": "Turquía",
+        "incorrecta3": "Bulgaria"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg",
+        "respuesta": "Hungría",
+        "incorrecta1": "Austria",
+        "incorrecta2": "Eslovaquia",
+        "incorrecta3": "Rumanía"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg",
+        "respuesta": "Italia",
+        "incorrecta1": "España",
+        "incorrecta2": "Francia",
+        "incorrecta3": "Suiza"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg",
+        "respuesta": "Noruega",
+        "incorrecta1": "Suecia",
+        "incorrecta2": "Finlandia",
+        "incorrecta3": "Dinamarca"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg",
+        "respuesta": "Países Bajos",
+        "incorrecta1": "Bélgica",
+        "incorrecta2": "Alemania",
+        "incorrecta3": "Dinamarca"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg",
+        "respuesta": "Polonia",
+        "incorrecta1": "Alemania",
+        "incorrecta2": "República Checa",
+        "incorrecta3": "Ucrania"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg",
+        "respuesta": "Portugal",
+        "incorrecta1": "España",
+        "incorrecta2": "Francia",
+        "incorrecta3": "Italia"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg",
+        "respuesta": "Reino Unido",
+        "incorrecta1": "Irlanda",
+        "incorrecta2": "Francia",
+        "incorrecta3": "Alemania"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg",
+        "respuesta": "República Checa",
+        "incorrecta1": "Eslovaquia",
+        "incorrecta2": "Polonia",
+        "incorrecta3": "Austria"
+    },
+    {
+        "img": "URL_DE_LA_BANDERA_DE_RUSIAhttps://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg",
+        "respuesta": "Rusia",
+        "incorrecta1": "Ucrania",
+        "incorrecta2": "Finlandia",
+        "incorrecta3": "Mongolia"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg",
+        "respuesta": "Suecia",
+        "incorrecta1": "Noruega",
+        "incorrecta2": "Finlandia",
+        "incorrecta3": "Dinamarca"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg",
+        "respuesta": "Suiza",
+        "incorrecta1": "Austria",
+        "incorrecta2": "Francia",
+        "incorrecta3": "Italia"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg",
+        "respuesta": "Turquía",
+        "incorrecta1": "Grecia",
+        "incorrecta2": "Bulgaria",
+        "incorrecta3": "Siria"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg",
+        "respuesta": "Ucrania",
+        "incorrecta1": "Rusia",
+        "incorrecta2": "Polonia",
+        "incorrecta3": "Eslovaquia"
+    }
+]

@@ -1,0 +1,179 @@
+[
+    {
+        "img": "https://astelus.com/wp-content/viajes/la-historia-de-la-bandera-de-argentina-1152x759.png",
+        "respuesta": "Argentina",
+        "incorrecta1": "Bolivia",
+        "incorrecta2": "Chile",
+        "incorrecta3": "Colombia"
+    },
+    {
+        "img": "https://planificatuviaje.es/wp-content/uploads/2020/09/flag-800-52.png",
+        "respuesta": "Bolivia",
+        "incorrecta1": "Perú",
+        "incorrecta2": "Chile",
+        "incorrecta3": "Ecuador"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png",
+        "respuesta": "Brasil",
+        "incorrecta1": "Argentina",
+        "incorrecta2": "Uruguay",
+        "incorrecta3": "Venezuela"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/1200px-Flag_of_Chile.svg.png",
+        "respuesta": "Chile",
+        "incorrecta1": "Perú",
+        "incorrecta2": "Argentina",
+        "incorrecta3": "Colombia"
+    },
+    {
+        "img": "https://static.vecteezy.com/system/resources/previews/004/757/007/non_2x/colombia-flag-free-vector.jpg",
+        "respuesta": "Colombia",
+        "incorrecta1": "Ecuador",
+        "incorrecta2": "Perú",
+        "incorrecta3": "Chile"
+    },
+    {
+        "img": "https://img.asmedia.epimg.net/resizer/YM7WZliU7WmhHKHfTeZIwNgjcA0=/736x414/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/DKFJVUJVTBCANOMGHAMXJ4JSHM.png",
+        "respuesta": "Costa Rica",
+        "incorrecta1": "Panamá",
+        "incorrecta2": "Nicaragua",
+        "incorrecta3": "Honduras"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg",
+        "respuesta": "Cuba",
+        "incorrecta1": "República Dominicana",
+        "incorrecta2": "Haití",
+        "incorrecta3": "Jamaica"
+    },
+    {
+        "img": "https://static3.depositphotos.com/1000209/137/v/450/depositphotos_1378098-stock-illustration-ecuador-flag.jpg",
+        "respuesta": "Ecuador",
+        "incorrecta1": "Perú",
+        "incorrecta2": "Colombia",
+        "incorrecta3": "Bolivia"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "respuesta": "El Salvador",
+        "incorrecta1": "Guatemala",
+        "incorrecta2": "Honduras",
+        "incorrecta3": "Nicaragua"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_Guyana.svg",
+        "respuesta": "Guyana",
+        "incorrecta1": "Surinam",
+        "incorrecta2": "Guayana Francesa",
+        "incorrecta3": "Brasil"
+    },
+
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Grenada.svg",
+        "respuesta": "Granada",
+        "incorrecta1": "Trinidad y Tobago",
+        "incorrecta2": "San Cristóbal y Nieves",
+        "incorrecta3": "Santa Lucía"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
+        "respuesta": "Guatemala",
+        "incorrecta1": "Honduras",
+        "incorrecta2": "El Salvador",
+        "incorrecta3": "Nicaragua"
+    },
+    
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Haiti.svg",
+        "respuesta": "Haití",
+        "incorrecta1": "República Dominicana",
+        "incorrecta2": "Cuba",
+        "incorrecta3": "Jamaica"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "respuesta": "Honduras",
+        "incorrecta1": "Guatemala",
+        "incorrecta2": "El Salvador",
+        "incorrecta3": "Nicaragua"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Jamaica.svg",
+        "respuesta": "Jamaica",
+        "incorrecta1": "Haití",
+        "incorrecta2": "Cuba",
+        "incorrecta3": "República Dominicana"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg",
+        "respuesta": "México",
+        "incorrecta1": "Estados Unidos",
+        "incorrecta2": "Canadá",
+        "incorrecta3": "Guatemala"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "respuesta": "Nicaragua",
+        "incorrecta1": "Honduras",
+        "incorrecta2": "El Salvador",
+        "incorrecta3": "Costa Rica"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Paraguay.svg",
+        "respuesta": "Paraguay",
+        "incorrecta1": "Argentina",
+        "incorrecta2": "Bolivia",
+        "incorrecta3": "Brasil"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
+        "respuesta": "Panamá",
+        "incorrecta1": "Costa Rica",
+        "incorrecta2": "Colombia",
+        "incorrecta3": "Nicaragua"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Peru.svg",
+        "respuesta": "Perú",
+        "incorrecta1": "Chile",
+        "incorrecta2": "Ecuador",
+        "incorrecta3": "Bolivia"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/2/28/Flag_of_Puerto_Rico.svg",
+        "respuesta": "Puerto Rico",
+        "incorrecta1": "Cuba",
+        "incorrecta2": "República Dominicana",
+        "incorrecta3": "Haití"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
+        "respuesta": "República Dominicana",
+        "incorrecta1": "Cuba",
+        "incorrecta2": "Puerto Rico",
+        "incorrecta3": "Haití"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/60/Flag_of_Suriname.svg",
+        "respuesta": "Surinam",
+        "incorrecta1": "Guyana",
+        "incorrecta2": "Guayana Francesa",
+        "incorrecta3": "Brasil"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "respuesta": "Uruguay",
+        "incorrecta1": "Argentina",
+        "incorrecta2": "Brasil",
+        "incorrecta3": "Paraguay"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Venezuela.svg",
+        "respuesta": "Venezuela",
+        "incorrecta1": "Colombia",
+        "incorrecta2": "Brasil",
+        "incorrecta3": "Guyana"
+    }
+ ]

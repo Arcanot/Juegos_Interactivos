@@ -1,0 +1,135 @@
+[
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Angola.svg",
+        "respuesta": "Angola",
+        "incorrecta1": "Mozambique",
+        "incorrecta2": "Namibia",
+        "incorrecta3": "Zambia"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
+        "respuesta": "Argelia",
+        "incorrecta1": "Marruecos",
+        "incorrecta2": "Túnez",
+        "incorrecta3": "Libia"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "respuesta": "Burkina Faso",
+        "incorrecta1": "Níger",
+        "incorrecta2": "Malí",
+        "incorrecta3": "Costa de Marfil"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Cameroon.svg",
+        "respuesta": "Camerún",
+        "incorrecta1": "Nigeria",
+        "incorrecta2": "Chad",
+        "incorrecta3": "República Centroafricana"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Côte_d%27Ivoire.svg",
+        "respuesta": "Costa de Marfil",
+        "incorrecta1": "Ghana",
+        "incorrecta2": "Burkina Faso",
+        "incorrecta3": "Liberia"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+        "respuesta": "Egipto",
+        "incorrecta1": "Sudán",
+        "incorrecta2": "Israel",
+        "incorrecta3": "Arabia Saudita"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
+        "respuesta": "Etiopía",
+        "incorrecta1": "Kenia",
+        "incorrecta2": "Sudán",
+        "incorrecta3": "Somalia"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg",
+        "respuesta": "Ghana",
+        "incorrecta1": "Nigeria",
+        "incorrecta2": "Costa de Marfil",
+        "incorrecta3": "Togo"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Kenya.svg",
+        "respuesta": "Kenia",
+        "incorrecta1": "Tanzania",
+        "incorrecta2": "Uganda",
+        "incorrecta3": "Somalia"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
+        "respuesta": "Malí",
+        "incorrecta1": "Burkina Faso",
+        "incorrecta2": "Níger",
+        "incorrecta3": "Costa de Marfil"
+    },
+    {
+        "img": "https://es.wikipedia.org/wiki/Marruecos#/media/Archivo:Flag_of_Morocco.svg",
+        "respuesta": "Marruecos",
+        "incorrecta1": "Argelia",
+        "incorrecta2": "España",
+        "incorrecta3": "Mauritania"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Mozambique.svg",
+        "respuesta": "Mozambique",
+        "incorrecta1": "Zimbabwe",
+        "incorrecta2": "Malawi",
+        "incorrecta3": "Tanzania"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg",
+        "respuesta": "Nigeria",
+        "incorrecta1": "Ghana",
+        "incorrecta2": "Camerún",
+        "incorrecta3": "Níger"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "respuesta": "Níger",
+        "incorrecta1": "Malí",
+        "incorrecta2": "Burkina Faso",
+        "incorrecta3": "Chad"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg",
+        "respuesta": "República Democrática del Congo",
+        "incorrecta1": "Congo",
+        "incorrecta2": "Angola",
+        "incorrecta3": "Sudán"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg",
+        "respuesta": "Sudáfrica",
+        "incorrecta1": "Namibia",
+        "incorrecta2": "Zimbabwe",
+        "incorrecta3": "Mozambique"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Sudan.svg",
+        "respuesta": "Sudán",
+        "incorrecta1": "Egipto",
+        "incorrecta2": "Sudán del Sur",
+        "incorrecta3": "Etiopía"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "respuesta": "Tanzania",
+        "incorrecta1": "Kenia",
+        "incorrecta2": "Uganda",
+        "incorrecta3": "Mozambique"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Flag_of_Uganda.svg",
+        "respuesta": "Uganda",
+        "incorrecta1": "Kenia",
+        "incorrecta2": "Tanzania",
+        "incorrecta3": "Ruanda"
+    }
+]

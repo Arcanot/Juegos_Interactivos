@@ -1,0 +1,151 @@
+[
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Flag_of_Afghanistan_%282013–2021%29.svg",
+        "respuesta": "Afganistán",
+        "incorrecta1": "Pakistán",
+        "incorrecta2": "Irán",
+        "incorrecta3": "Tayikistán"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "respuesta": "Arabia Saudita",
+        "incorrecta1": "Emiratos Árabes Unidos",
+        "incorrecta2": "Qatar",
+        "incorrecta3": "Kuwait"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg",
+        "respuesta": "Bangladés",
+        "incorrecta1": "India",
+        "incorrecta2": "Myanmar",
+        "incorrecta3": "Bután"
+    },
+    
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg",
+        "respuesta": "China",
+        "incorrecta1": "India",
+        "incorrecta2": "Japón",
+        "incorrecta3": "Corea del Sur"
+    },
+    
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/5/51/Flag_of_North_Korea.svg",
+        "respuesta": "Corea del Norte",
+        "incorrecta1": "Corea del Sur",
+        "incorrecta2": "China",
+        "incorrecta3": "Japón"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
+        "respuesta": "Corea del Sur",
+        "incorrecta1": "Corea del Norte",
+        "incorrecta2": "China",
+        "incorrecta3": "Japón"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg",
+        "respuesta": "Filipinas",
+        "incorrecta1": "Indonesia",
+        "incorrecta2": "Malasia",
+        "incorrecta3": "Vietnam"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_India.svg",
+        "respuesta": "India",
+        "incorrecta1": "Pakistán",
+        "incorrecta2": "Bangladés",
+        "incorrecta3": "China"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg",
+        "respuesta": "Indonesia",
+        "incorrecta1": "Malasia",
+        "incorrecta2": "Filipinas",
+        "incorrecta3": "Brunéi"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Iraq.svg",
+        "respuesta": "Irak",
+        "incorrecta1": "Irán",
+        "incorrecta2": "Siria",
+        "incorrecta3": "Jordania"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
+        "respuesta": "Israel",
+        "incorrecta1": "Palestina",
+        "incorrecta2": "Jordania",
+        "incorrecta3": "Líbano"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg",
+        "respuesta": "Japón",
+        "incorrecta1": "China",
+        "incorrecta2": "Corea del Sur",
+        "incorrecta3": "Rusia"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg",
+        "respuesta": "Kazajistán",
+        "incorrecta1": "Kirguistán",
+        "incorrecta2": "Uzbekistán",
+        "incorrecta3": "Turkmenistán"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg",
+        "respuesta": "Malasia",
+        "incorrecta1": "Indonesia",
+        "incorrecta2": "Tailandia",
+        "incorrecta3": "Singapur"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
+        "respuesta": "Pakistán",
+        "incorrecta1": "India",
+        "incorrecta2": "Afganistán",
+        "incorrecta3": "Bangladés"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Qatar.svg",
+        "respuesta": "Qatar",
+        "incorrecta1": "Arabia Saudita",
+        "incorrecta2": "Emiratos Árabes Unidos",
+        "incorrecta3": "Kuwait"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg",
+        "respuesta": "Singapur",
+        "incorrecta1": "Malasia",
+        "incorrecta2": "Indonesia",
+        "incorrecta3": "Tailandia"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/5/53/Flag_of_Syria.svg",
+        "respuesta": "Siria",
+        "incorrecta1": "Líbano",
+        "incorrecta2": "Irak",
+        "incorrecta3": "Jordania"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg",
+        "respuesta": "Tailandia",
+        "incorrecta1": "Camboya",
+        "incorrecta2": "Vietnam",
+        "incorrecta3": "Malasia"
+    }, 
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/7/72/Flag_of_the_Republic_of_China.svg",
+        "respuesta": "Taiwán",
+        "incorrecta1": "China",
+        "incorrecta2": "Japón",
+        "incorrecta3": "Filipinas"
+    },
+    {
+        "img": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg",
+        "respuesta": "Turquía",
+        "incorrecta1": "Grecia",
+        "incorrecta2": "Siria",
+        "incorrecta3": "Irak"
+    }
+]
