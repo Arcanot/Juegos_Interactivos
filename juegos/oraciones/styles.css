@@ -1,0 +1,82 @@
+
+body {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    
+    margin: 0;
+    padding: 0;
+    background-image: url(clase.jpg);
+    background-size: 1700px;
+}
+
+.container {
+    max-width: 600px;
+    margin: 150px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+h2 {
+    font-family: "Bungee", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+    color: #ff6f61;
+}
+
+.options-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.options-container button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 10px;
+    background-color: #ff6f61;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.options-container button:hover {
+    background-color: #ff524f;
+}
+
+#feedback {
+    margin-top: 20px;
+    font-weight: bold;
+    color: #2ecc71;
+}
+
+h3 {
+    font-size: 24px; 
+    color: #ff6f61; 
+    margin-bottom: 20px;
+}
+
+
+#startButton {
+    margin-top: 20px; 
+    padding: 10px 20px;
+    font-size: 18px; 
+    border: 2px solid #ff6f61;
+    border-radius: 10px;
+    background-color: #ffedc2; 
+    color: #ff6f61; 
+    cursor: pointer; 
+    transition: background-color 0.3s, color 0.3s;
+}
+
+#startButton:hover {
+    background-color: #ff6f61;
+    color: #fff;
+}
+
+
+

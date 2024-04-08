@@ -1,0 +1,87 @@
+body {
+    background-image: url(https://img.freepik.com/vector-gratis/interior-aula-vacia-pizarra_1308-61229.jpg?w=1380&t=st=1712203983~exp=1712204583~hmac=0e6322be3099f767cfc47e634f871dd5d1e22d9c50ba85074e437917437a9b13);
+    font-family: 'Arial', sans-serif;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.game {
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    padding: 40px;
+    text-align: center;
+    max-width: 600px;
+    width: 100%;
+}
+
+.title {
+    color: #333333;
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+.image-container {
+    margin-bottom: 20px;
+}
+
+.word {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.letters {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.letter-box {
+    background-color: #6dcdef;
+    display: inline-block;
+    border-radius: 5px;
+    color: #ffffff;
+    cursor: pointer;
+    font-size: 24px; /* Aumenta el tamaño de la fuente */
+    margin: 10px; /* Aumenta el margen */
+    padding: 15px 20px; /* Aumenta el relleno */
+    transition: background-color 0.3s ease;
+}
+
+.letter-box:hover {
+    background-color: #4fa7e8;
+}
+
+.message {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+#message button {
+    background-color: #4caf50;
+    border: none;
+    border-radius: 5px;
+    color: #ffffff;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 10px 20px;
+    transition: background-color 0.3s ease;
+}
+
+#message button:hover {
+    background-color: #45a049;
+}
+.button{
+    font-size: 24px; /* Aumenta el tamaño de la fuente */
+    margin: 10px; /* Aumenta el margen */
+    padding: 15px 20px; /* Aumenta el relleno */
+}

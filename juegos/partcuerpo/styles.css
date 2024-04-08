@@ -1,0 +1,206 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@700&display=swap');
+
+header{
+  background-color: #EABE3F;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Nunito';
+}
+
+body {
+  text-align: center;
+  color: #0c4fe1;
+  height: 100%; 
+}
+
+h1 {
+  font-family: fantasy;
+  color: white;
+  padding: 50px;
+  font-size: 60px;
+  font-weight: 300;
+}
+
+.container {
+  background-color: none;
+  max-width: 80%;
+  margin: auto;
+  border: 3px solid #EABE3F;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  padding: 50px 0;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden; 
+}
+
+.container2 {
+  background-color: none;
+  max-width: 80%;
+  margin: auto;
+  border: 3px solid #EABE3F;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  padding: 50px 0;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden; /* Evitar desbordamiento horizontal en dispositivos móviles */
+}
+
+.textosuperior {
+  font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 20px;
+  justify-content: center;
+  align-items: center;
+  color:black;
+  padding-right: 0.5em;
+  padding-left: 0.5em;
+}
+.pregunta {
+  font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 40px;
+  justify-content: center;
+  align-items: center;
+  padding-right: 0.5em;
+  padding-left: 0.5em;
+}
+
+.msj {
+  font-size: 30px;
+  height: 30px;
+}
+
+.guess-button {
+  background-color: #127caa;
+  border: 2px solid #127caa;
+  color: #fff;
+  padding: 10px 10px;
+  font-size: 30px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.guess-button:hover {
+  background-color: #21b5f5;
+}
+
+#human-body {
+  width: 633px; 
+  height: 703px;
+}
+
+
+#words-area {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 20px;
+  }
+  
+  .draggable-word {
+    margin: 10px;
+    border: 1px solid #EABE3F;
+    border-radius: 5px;
+    cursor: move;
+    width: 150px;
+    height: 50px;
+    
+  }
+
+  .word-slot {
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    border: 2px dashed #EABE3F;
+    height: 60px; 
+    width: 180px; 
+    position: absolute;
+    background-color: transparent;
+  }
+  #head-slot {
+    top: 4%;  
+    left: 5%; 
+   }
+#cuello-slot {
+  top: 32%;  
+  left: 10%; 
+   }
+#pecho-slot {
+  top: 40%; 
+  left: 73%; 
+  }
+#tronco-slot {
+  top: 42%;  
+  left: 2%; 
+  }
+ #codo-slot {
+  top: 57%;  
+  left: 1%; 
+  }
+ #brazo-slot {
+  top: 52%; 
+  left: 83%; 
+}
+#mano-slot {
+  top: 70%;
+  left: 86%; 
+ }
+#pierna-slot {
+  top: 83%; 
+  left: 77%; 
+ }
+#rodilla-slot {
+  top: 75%;  
+  left: 5%; 
+  }
+ #pie-slot {
+  top: 87%;  
+  left: 2%; 
+   }
+   @media (max-width: 768px) {
+     
+    .container, .container2 {
+      max-width: 80%; /* Ancho completo en dispositivos móviles */
+      flex-wrap: wrap; /* Permitir envolver las imágenes en múltiples líneas */
+    }
+    
+    .guess-button {
+      font-size: 15px;
+      padding: 5x 5px;
+        }
+    .msj {
+         
+      font-size: 20px;
+         
+        }
+    #human-body {
+          width: 200px; 
+          height: 221px; 
+      }
+    .word-slot {
+      height: 15px; 
+      width: 45px; 
+    }
+    .draggable-word {
+      margin: 5px; 
+      width: 40px; 
+      height: 12px; 
+     
+    }
+  
+    /* Aquí podrías ajustar el tamaño de las imágenes si están definidas en línea */
+    .draggable-word img {
+      width: 50%; 
+      height: auto; 
+    }
+   
+  }
+ 
