@@ -1,0 +1,46 @@
+@font-face {
+    font-family: 'Press Start 2P';
+    src: url('PressStart2P-Regular.ttf');
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Press Start 2P';
+    
+}
+.container {
+	display: flex; /* Establece un contenedor flexible */
+	flex-wrap: wrap;
+	justify-content: center; /* Centra horizontalmente los elementos hijos */
+}
+.card {
+	width: 300px;
+	height: 410px;
+	margin: 100px 30px 0;
+	border-radius: 30px;
+	background: #a8b8cd;
+	-webkit-box-shadow: 15px 15px 30px rgb(25, 25, 25),
+				-15px -15px 30px rgb(60, 60, 60);
+			box-shadow: 15px 15px 30px rgb(25, 25, 25),
+				-15px -15px 30px rgb(60, 60, 60);
+	 text-align: center;
+   }
+   .boton {
+		background-color: #3498db; /* Color de fondo del botón */
+		color: #fff; /* Color del texto del botón */
+		border: none; /* Sin borde */
+		border-radius: 5px; /* Bordes redondeados */
+		padding: 10px 20px; /* Espaciado dentro del botón */
+		font-size: 16px; /* Tamaño del texto del botón */
+		cursor: pointer; /* Cambia el cursor al pasar el ratón */
+	}
+	.boton:hover {
+		background-color: #2980b9;
+	}
+
+	img {
+		max-width: 89%; /* Asegura que la imagen no sea más ancha que su contenedor */
+		height: auto; /* Mantiene la proporción original de la imagen */
+	}
+ 
