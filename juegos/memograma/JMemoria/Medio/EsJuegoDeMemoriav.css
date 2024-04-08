@@ -1,0 +1,99 @@
+
+body{
+    background-image: url("https://img.freepik.com/vector-gratis/aula-vacia-interior-escuela-o-clase-universitaria_107791-631.jpg?size=626&ext=jpg&ga=GA1.1.604972425.1693811343&semt=ais");
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+    font-family: sans-serif;
+}
+main{
+    width: 730px;
+    margin: 100px auto 50px;
+    display: flex;
+    align-items: center;
+}
+.section1{
+    background-color: rgba(255,255,255,0.55);
+    padding: 0 10px 10px 10px;
+    border-radius: px;
+}
+h1{
+    text-align: center;
+}
+button{
+    height: 80px;
+    width: 135px;
+    font-size: 40px;
+    color:black;
+    font-weight: bold;
+}
+button:hover{
+    cursor: pointer;
+}
+.section2{
+    background-color: rgba(255,255,255,0.55);
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    height: 300px;
+    width: 250px;
+    padding: 0 20px;
+}
+.Estadisticas{
+    border: 3px solid white;
+    height: 75px;
+    border-radius: 8px;
+    padding: 8px 20px;
+    box-sizing: border-box;
+}
+footer{
+    text-align: center;
+}
+p{
+    background-color: rgba(255,255,255,0.95);
+    color:rgb(0, 0, 0);
+}
+a{
+    text-decoration: none;
+}
+img{
+   width: 60%; 
+}
+.Emergente-container {
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.3);
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    pointer-events: none;
+    opacity: 0;  
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: 100vw;
+    transition: opacity 0.3s ease;
+  }
+  .show {
+    pointer-events: auto;
+    opacity: 1;
+  }
+  .Emergente {
+    background-color: #fff;
+    width: 600px;
+    max-width: 100%;
+    padding: 30px 50px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    text-align: center;
+  }
+  .Emergente h1 {
+    margin: 0;
+  }
+  .estiloBoton {
+    background-color: #47a386;
+    border: 0;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    color: #fff;
+    font-size: 14px;
+    padding: 10px 25px;
+  }
